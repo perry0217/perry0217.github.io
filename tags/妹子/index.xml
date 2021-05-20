@@ -20,5 +20,25 @@
  一號  1-1  122     二號   hand  finger   hand   我很正</description>
     </item>
     
+    <item>
+      <title>這是一個關於新垣結依的網誌-2</title>
+      <link>https://perry0217.github.io/blog/second-code/</link>
+      <pubDate>Thu, 20 May 2021 10:07:47 +0800</pubDate>
+      
+      <guid>https://perry0217.github.io/blog/second-code/</guid>
+      <description>hello world
+新垣結依 新垣結依 新垣結依 新垣結依 新垣結依</description>
+    </item>
+    
+    <item>
+      <title>這是一個關於新垣結依的網誌-3</title>
+      <link>https://perry0217.github.io/blog/third-code/</link>
+      <pubDate>Thu, 20 May 2021 10:07:47 +0800</pubDate>
+      
+      <guid>https://perry0217.github.io/blog/third-code/</guid>
+      <description>hello world
+新垣結依 新垣結依 新垣結依 新垣結依 新垣結依</description>
+    </item>
+    
   </channel>
 </rss>
